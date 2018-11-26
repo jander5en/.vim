@@ -2,6 +2,8 @@
 
 ln -s ~/.vim/.vimrc ~/.vimrc 
 
+
+echo "#Set up VIM as default editor" >> ~/.bashrc
 echo export VISUAL=vim >> ~/.bashrc
 echo export EDITOR=vim >> ~/.bashrc
 

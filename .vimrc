@@ -1,5 +1,4 @@
 "Vim settings
-"Vim settings
 
 set number "enable line numbering
 
